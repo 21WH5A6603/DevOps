@@ -1,0 +1,57 @@
+<html>
+<head>
+<title>
+Registration Form
+</title>
+</head>
+<marquee behavior="scroll" direction="left"  style="color:Red; font-size:40px;">Poojitha Jaligama</marquee>
+<marquee behavior="scroll" direction="right"  style="color:Blue; font-size:40px;">21WH5A6603</marquee>
+<body><h1>Registration Form</h1>
+<form action ="Poojitha.html">
+
+
+First Name<input type="text box" required><br><br>
+Last Name<input type ="text box" required><br><br>
+Mobile Number<input type="text box" required><br><br>
+Gender<br>
+<input type="radio" id="male" name="fav_language" value="Male" required>
+  <label for="html">Male</label>
+  <input type="radio" id="female" name="fav_language" value="Female" required>
+  <label for="css">Female</label><br><br>
+Date of birth<input type="date"  required><br><br>
+Email<input type="email"required><br><br><br>
+Password<input type="password" required><br><br>
+Confirm Password<input type="password" required><br><br>
+<input type="checkbox">Terms and conditions<br><br>
+<input type="submit" style="align:center"><br><br>
+</form>
+</body>
+</html><html>
+<head>
+<title>
+Registration Form
+</title>
+</head>
+<marquee behavior="scroll" direction="left"  style="color:Red; font-size:40px;">Poojitha Jaligama</marquee>
+<marquee behavior="scroll" direction="right"  style="color:Blue; font-size:40px;">21WH5A6603</marquee>
+<body><h1>Registration Form</h1>
+<form action ="Poojitha.html">
+
+
+First Name<input type="text box" required><br><br>
+Last Name<input type ="text box" required><br><br>
+Mobile Number<input type="text box" required><br><br>
+Gender<br>
+<input type="radio" id="male" name="fav_language" value="Male" required>
+  <label for="html">Male</label>
+  <input type="radio" id="female" name="fav_language" value="Female" required>
+  <label for="css">Female</label><br><br>
+Date of birth<input type="date"  required><br><br>
+Email<input type="email"required><br><br><br>
+Password<input type="password" required><br><br>
+Confirm Password<input type="password" required><br><br>
+<input type="checkbox">Terms and conditions<br><br>
+<input type="submit" style="align:center"><br><br>
+</form>
+</body>
+</html>
